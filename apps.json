@@ -1,6 +1,6 @@
 {
   "data": {
-    "updatedAt": "2026-10-06T09:27:17.342Z",
+    "updatedAt": "2026-10-06T09:35:06.373Z",
     "apps": {
       "pdf-forge": {
         "version": "1.1.0",
@@ -8,8 +8,15 @@
         "sha256": "9590d3de3c35caa2da018345017a2b1f3ad851b515e4085486cb14fcd3e08224",
         "size": 121094737,
         "exe": "PDF Forge.exe"
+      },
+      "qr-forge": {
+        "version": "1.0.0",
+        "url": "https://github.com/Bafliko/launchpad-releases/releases/download/qr-forge-v1.0.0/qr-forge-1.0.0-win-x64.zip",
+        "sha256": "f0b5cfea82b1700260bfbeedc4c2f9ae41c99b50d71f161b254b7094a79b1b92",
+        "size": 142488537,
+        "exe": "QR Forge.exe"
       }
     }
   },
-  "sig": "H8nfPmDcH64hvHUgGbgRV4HLny9FTDZ+APpUKH7uFmGSXJM5jn15a1xRHJtjLutKt5vZdnvLtf7AhgMcntDuCQ=="
+  "sig": "GpRv33qONgI2CfYw86YFE104LDz8ny8o2ELDB5ENXXRGLmgR6drk+ulnJGD3fYTYpENnxsjIs3uGYuRKcqP8AA=="
 }
