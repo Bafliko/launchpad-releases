@@ -1,6 +1,6 @@
 {
   "data": {
-    "updatedAt": "2026-10-06T09:40:20.703Z",
+    "updatedAt": "2026-10-06T09:47:32.780Z",
     "apps": {
       "pdf-forge": {
         "version": "1.1.0",
@@ -22,8 +22,15 @@
         "sha256": "6490149a7a450b207ff2d1abd656ae7f90bd534424d66387fbab41f046f6f257",
         "size": 194777343,
         "exe": "ytdl.exe"
+      },
+      "phantom": {
+        "version": "1.1.0",
+        "url": "https://github.com/Bafliko/launchpad-releases/releases/download/phantom-v1.1.0/phantom-1.1.0-win-x64.zip",
+        "sha256": "3536b8d43a6a988cbc628abaaa990527dbd23c4bf9a8b389f873c0c113a09f9c",
+        "size": 145688071,
+        "exe": "Phantom.exe"
       }
     }
   },
-  "sig": "A9FlW5Ig9QZB8zZ+WNYNaMYv0W518lWe1+889i2qmf+GMVLBgzQvPmLJphA3cAZrRtAEoWijImZFzRSlm9JXBw=="
+  "sig": "tW0rwXf0V+sPv9xkkNiPK1fZ9mrsgfrqWtL4Lwh90moK1eQUW1/NE2YfwoBSDtUIJ1qL+7d9J2fi3bQMYkeOBg=="
 }
