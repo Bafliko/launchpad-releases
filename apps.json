@@ -1,6 +1,6 @@
 {
   "data": {
-    "updatedAt": "2026-10-06T09:47:32.780Z",
+    "updatedAt": "2026-10-17T09:40:54.325Z",
     "apps": {
       "pdf-forge": {
         "version": "1.1.0",
@@ -29,8 +29,15 @@
         "sha256": "3536b8d43a6a988cbc628abaaa990527dbd23c4bf9a8b389f873c0c113a09f9c",
         "size": 145688071,
         "exe": "Phantom.exe"
+      },
+      "usb-multicopy": {
+        "version": "1.0.0",
+        "url": "https://github.com/Bafliko/launchpad-releases/releases/download/usb-multicopy-v1.0.0/usb-multicopy-1.0.0-win-x64.zip",
+        "sha256": "77e31336e59e14fea235d9210a15c33906e1ff23ec5c185f6a6d13eb73a88ec1",
+        "size": 3159372,
+        "exe": "usb-multicopy.exe"
       }
     }
   },
-  "sig": "tW0rwXf0V+sPv9xkkNiPK1fZ9mrsgfrqWtL4Lwh90moK1eQUW1/NE2YfwoBSDtUIJ1qL+7d9J2fi3bQMYkeOBg=="
+  "sig": "u/ZgLFLgo2cbr2vMfXwD94/P9x1iEjGAwHJiOYIwlHeg+Yb0qv/tSmUNSU/0UN89H1/LjfWGK4qRyAUQ+agDCw=="
 }
